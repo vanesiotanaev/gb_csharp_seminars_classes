@@ -188,7 +188,7 @@ int[,] ShortenedArray(int[,] array)
                     newJ++; 
                 } 
             } 
-        newI++; 
+            newI++; 
         } 
     }
     
